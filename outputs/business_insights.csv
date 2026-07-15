@@ -1,0 +1,7 @@
+Cluster_Name,Churn_Risk,Customers,Avg_CLTV,Total_Revenue,Avg_ChurnProb,Avg_Frequency
+High Value,Low,38,2972.1,727428.35,0.05,49.03
+Low Value,High,53,55.54,2943.45,0.61,1.0
+Low Value,Low,110,120.39,127229.32,0.27,3.74
+Low Value,Medium,2349,37.41,937968.56,0.48,1.58
+Mid Value,Low,1611,231.32,3451281.7,0.12,6.86
+Mid Value,Medium,67,53.18,62939.17,0.32,3.01
